@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DependenciesChecker/DependenciesChecker.vcxproj" Id="d527ac51-3992-4252-a418-abfcabb80fb7" />
+</Solution>
